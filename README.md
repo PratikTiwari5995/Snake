@@ -8,4 +8,4 @@ This is a simple Snake Game implemented in Python using the Turtle graphics libr
 4. Score Tracking: Keep track of your score as you play, with each piece of food eaten adding points.
 5. Game Over Detection: The game ends if the snake collides with the screen boundaries or itself, prompting the player to try again.
 
-6. 
+
